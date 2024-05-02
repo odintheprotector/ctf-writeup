@@ -2,6 +2,7 @@ Hi, it's me Odin. Yesterday me and my team World Wide Flag have a competition in
 
 ## Optography:
 - For this challenge, they gave me a .vmem file, and we will use volatility3 for analysing it:
+- 
 ![image](https://github.com/odintheprotector/ctf-writeup/assets/75618225/f87c1ea1-596a-4d43-a390-d53db4709232)
 
 I checked filescan and pslist but it looked normal, from here I was stuck for 2 HOURS because there's nothing special (F*CKKKKKKKKKKKK)
