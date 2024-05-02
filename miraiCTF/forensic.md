@@ -1,4 +1,4 @@
-Hi, it's me Odin. Yesterday me and my team World Wide Flag have a competition in MiraiCTF and I'm very happy that we got 3rd place. Moreover, I solved all forensic challenges, and now it's writeup for them.
+Hi, it's me Odin. Yesterday me and my team World Wide Flag have a competition in MireaCTF and I'm very happy that we got 3rd place. Moreover, I solved all forensic challenges, and now it's writeup for them.
 
 ## Optography:
 - For this challenge, they gave me a .vmem file, and we will use volatility3 for analysing it:
